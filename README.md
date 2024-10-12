@@ -1,4 +1,6 @@
-**Image Captioning with CNNs and RNNs**
+# **Image Captioning with CNNs and RNNs**
+
+
 This project implements an Image Caption Generator using a combination of **Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) with Long Short Term Memory (LSTM)** layers. The model is trained on the Flickr8K dataset, consisting of 8,000 images paired with descriptive captions.
 
 The architecture utilizes **Inception V3** for feature extraction, followed by an LSTM-based decoder to generate contextually rich captions. Key steps include image preprocessing, caption tokenization, and training with TensorFlow and Keras.
